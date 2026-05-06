@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kishu-Community/Kishu-Inu-Creative/main/Logo/Kishu.png" alt="Kishu Inu logo" width="180">
+</p>
+
 # Kishu Inu Rebuild
 
 This is an independent solo rebuild effort.
