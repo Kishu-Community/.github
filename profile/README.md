@@ -8,6 +8,14 @@ This organization is an independent community rebuild and public record effort f
 
 The goal is to make the old public materials, recovered project code, deployment notes, and current rebuild work visible enough that the community can tell the difference between what exists today, what was promised historically, and what still needs to be rebuilt correctly.
 
+## Official Safety Notice
+
+- Official GitHub organization: [github.com/Kishu-Community](https://github.com/Kishu-Community)
+- Official homepage: [kishu.finance](https://kishu.finance)
+- Official Ethereum token contract: [`0xa2b4c0af19cc16a6cfacce81f192b024d625817d`](https://etherscan.io/token/0xa2b4c0af19cc16a6cfacce81f192b024d625817d)
+
+This organization will never ask for a seed phrase, private key, recovery phrase, wallet file, remote desktop session, or payment to "verify" a wallet. Public GitHub repositories can be forked or copied by anyone; a fork, clone, issue comment, pull request, or repo with similar branding is not official unless it is linked from this organization or the official homepage.
+
 ## Official Token Reference
 
 - Token: Kishu Inu (`KISHU`)
