@@ -28,6 +28,12 @@ This organization will never ask for a seed phrase, private key, recovery phrase
 
 Use Etherscan for live holder counts, transfers, market data, verified contract details, and token tracker information. Mutable market stats are not hardcoded here because they change over time.
 
+## Current Rebuild Preview
+
+- Recovered website rebuild preview: [kishu-inu-web-frontend.x26dotapp.workers.dev](https://kishu-inu-web-frontend.x26dotapp.workers.dev/)
+
+This Cloudflare Workers preview is being used to make the website recovery process visible while the community rebuilds and cleans up older public frontend code. It should be treated as work in progress until current domains, repos, deployment ownership, and public notes are fully aligned.
+
 ## Public Archive
 
 - [Original Kishu Inu whitepaper PDF](archive/original-kishu-inu-whitepaper.pdf)
