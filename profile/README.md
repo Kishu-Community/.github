@@ -2,19 +2,41 @@
   <img src="https://raw.githubusercontent.com/Kishu-Community/Kishu-Inu-Creative/main/Logo/Kishu.png" alt="Kishu Inu logo" width="180">
 </p>
 
-# Kishu Inu Rebuild
+# Kishu Inu Community Rebuild
 
-This is an independent solo rebuild effort.
+This organization is an independent community rebuild and public record effort for Kishu Inu.
 
-I am rebuilding this project because the community deserved better than what it got. Too much was handled behind closed doors, too much trust was burned, and too many people were left with questions instead of answers.
+The goal is to make the old public materials, recovered project code, deployment notes, and current rebuild work visible enough that the community can tell the difference between what exists today, what was promised historically, and what still needs to be rebuilt correctly.
 
-For now, this work is being done solo. That is intentional.
+## Official Token Reference
 
-Trust is not assumed here. It has to be earned through visible work, public records, and consistent behavior over time.
+- Token: Kishu Inu (`KISHU`)
+- Network: Ethereum Mainnet
+- Standard: ERC-20
+- Contract: [`0xa2b4c0af19cc16a6cfacce81f192b024d625817d`](https://etherscan.io/token/0xa2b4c0af19cc16a6cfacce81f192b024d625817d)
+- Decimals: 9
+- Max total supply: `100,000,000,000,000,000 KISHU`
+- Current homepage: [kishu.finance](https://kishu.finance)
 
-## What This Is
+Use Etherscan for live holder counts, transfers, market data, verified contract details, and token tracker information. Mutable market stats are not hardcoded here because they change over time.
 
-This repository is for rebuilding the public foundation around Kishu Inu: documentation, tooling, project structure, records, and anything else needed to move from confusion toward clarity.
+## Public Archive
+
+- [Original Kishu Inu whitepaper PDF](archive/original-kishu-inu-whitepaper.pdf)
+- [Whitepaper archive notes and errata](archive/README.md)
+
+The original whitepaper PDF is preserved unchanged as a historical artifact. It contains old domains, older social links, typos, and roadmap/product claims from the original project era. Those historical claims should not be treated as active promises unless a current repo, deployment, contract, and public maintenance record verifies them.
+
+## Recovered Project Status
+
+Several original whitepaper ecosystem items are being treated as historical or abandoned until proven current:
+
+- KISHU Swap
+- KISHU Crate
+- KISHU Paw Print
+- KISHU sWAG
+
+Recovered repos and redeployments should clearly explain what the old project claimed, what the recovered code actually does, who controls any relevant contracts or deployments, and what still needs to be rebuilt or retired.
 
 ## Ground Rules
 
