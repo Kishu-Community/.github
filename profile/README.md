@@ -2,9 +2,9 @@
   <img src="https://raw.githubusercontent.com/Kishu-Community/Kishu-Inu-Creative/main/Logo/Kishu.png" alt="Kishu Inu logo" width="180">
 </p>
 
-# Kishu Inu Community Rebuild
+# Kishu Inu Community Archive/Rebuild
 
-This organization is an independent community rebuild and public record effort related to Kishu Inu.
+This organization is an independent community archive, rebuild, and public record effort related to Kishu Inu.
 
 This is **not** an official continuation of the original Kishu Inu project unless the original contract, wallet, account, and deployment authority is publicly transferred or delegated.
 
