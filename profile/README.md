@@ -6,6 +6,8 @@
 
 This organization is an independent community rebuild and public record effort for Kishu Inu.
 
+I do NOT control the original KISHU token contract or legacy team wallets. This is an opt-in community remediation project for holders and NFT buyers.
+
 The goal is to make the old public materials, recovered project code, deployment notes, and current rebuild work visible enough that the community can tell the difference between what exists today, what was promised historically, and what still needs to be rebuilt correctly.
 
 ## Official Safety Notice
