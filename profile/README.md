@@ -30,7 +30,7 @@ Use Etherscan for live holder counts, transfers, market data, verified contract 
 
 ## Current Rebuild Preview
 
-- Recovered website rebuild preview: [kishu-inu-web-frontend.x26dotapp.workers.dev](https://kishu-inu-web-frontend.x26dotapp.workers.dev/)
+- Recovered website rebuild preview: [kishu.finance](https://kishu.finance)
 
 This Cloudflare Workers preview is being used to make the website recovery process visible while the community rebuilds and cleans up older public frontend code. It should be treated as work in progress until current domains, repos, deployment ownership, and public notes are fully aligned.
 
