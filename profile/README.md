@@ -4,6 +4,8 @@
 
 # Kishu Inu Community Archive/Rebuild
 
+https://t.me/KishuCommunityGithub
+
 This organization is an independent community archive, rebuild, and public record effort related to Kishu Inu.
 
 This is **not** an official continuation of the original Kishu Inu project unless the original contract, wallet, account, and deployment authority is publicly transferred or delegated.
