@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Kishu-Community/Kishu-Inu-Creative\01-Kishu-Inu-Core\Logo\kishu.png" alt="Kishu Inu logo" width="180">
+  <img src="https://raw.githubusercontent.com/Kishu-Community/Kishu-Inu-Creative\01-Kishu-Inu-Core\Logo\Kishu.png" alt="Kishu Inu logo" width="180">
 </p>
 
 # Kishu Inu Community Archive/Rebuild
