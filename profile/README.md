@@ -4,11 +4,27 @@
 
 # Kishu Inu Community Archive/Rebuild
 
-https://t.me/KishuCommunityGithub
-
 This organization is an independent community archive, rebuild, and public record effort related to Kishu Inu.
 
 This is **not** an official continuation of the original Kishu Inu project unless the original contract, wallet, account, and deployment authority is publicly transferred or delegated.
+
+## Important Links
+
+| Link | Purpose |
+| --- | --- |
+| [kishu.finance](https://kishu.finance) | Current community homepage / domain |
+| [Kishu Inu Linktree](https://linktr.ee/KishuInuOfficial) | Current public link hub |
+| [Kishu Community GitHub](https://github.com/Kishu-Community) | Public GitHub organization |
+| [Public work log](MY-WORK.MD) | Running record of archive, cleanup, and rebuild work |
+| [Telegram archive/community channel](https://t.me/KishuCommunityGithub) | Telegram channel for public archive/rebuild updates |
+| [Social media rules](https://github.com/Kishu-Community/social-media-posts/blob/main/KISHU-COMMUNITY-RULES.md) | Public community/social posting rules |
+| [Social media post archive](https://github.com/Kishu-Community/social-media-posts) | Public archive for Kishu Community social posts and safety references |
+| [Numbered Kishu social post assets](https://github.com/Kishu-Community/social-media-posts/tree/main/assets/assets) | 1:1 image/post archive for current Kishu posts |
+| [Kishu creative archive](https://github.com/Kishu-Community/Kishu-Inu-Creative) | Recovered and reorganized creative/media archive |
+| [Structured Kishu Inu core assets](https://github.com/Kishu-Community/Kishu-Inu-Creative/tree/main/01-Kishu-Inu-Core) | Logos, media, charity history, global events, and core archive folders |
+| [Structured community project assets](https://github.com/Kishu-Community/Kishu-Inu-Creative/tree/main/02-Kishu-Community-Projects) | Kishu Paw Print, Kishu Swag, Kishu Crate, Kishuverse, and Kishu Kingdom folders |
+| [KISHU token contract archive](https://github.com/Kishu-Community/Kishu-Inu-Contracts) | Public source archive for the KISHU token contract |
+| [KISHU Ethereum token on Etherscan](https://etherscan.io/token/0xa2b4c0af19cc16a6cfacce81f192b024d625817d) | Live token tracker and verified on-chain reference |
 
 ## Public Work Log
 
@@ -81,10 +97,23 @@ Those historical claims should not be treated as active promises unless a curren
 
 Several original whitepaper ecosystem items are being treated as historical, abandoned, incomplete, or unverified until proven current:
 
-- KISHU Swap
-- KISHU Crate
-- KISHU Paw Print
-- KISHU sWAG
+| Item | Current public reference |
+| --- | --- |
+| KISHU Swap | [Recovered token list repo](https://github.com/Kishu-Community/kishu-token-list) |
+| KISHU Crate | [Recovered interface repo](https://github.com/Kishu-Community/kishucrate-interface-public) / [creative evidence folder](https://github.com/Kishu-Community/Kishu-Inu-Creative/tree/main/02-Kishu-Community-Projects/03-Kishu-Crate) |
+| KISHU Paw Print | [creative evidence folder](https://github.com/Kishu-Community/Kishu-Inu-Creative/tree/main/02-Kishu-Community-Projects/01-Kishu-Paw-Print) |
+| KISHU sWAG | [creative evidence folder](https://github.com/Kishu-Community/Kishu-Inu-Creative/tree/main/02-Kishu-Community-Projects/02-Kishu-Swag) |
+| Kishuverse | [Recovered interface repo](https://github.com/Kishu-Community/kishuverse-interface-public) / [creative evidence folder](https://github.com/Kishu-Community/Kishu-Inu-Creative/tree/main/02-Kishu-Community-Projects/04-Kishuverse) |
+| Kishu Kingdom | [Recovered frontend repo](https://github.com/Kishu-Community/kishu-kingdom-web-frontend) / [creative evidence folder](https://github.com/Kishu-Community/Kishu-Inu-Creative/tree/main/02-Kishu-Community-Projects/05-Kishu-Kingdom) |
+| Kishu Inu Foundation charity work | [team/project charity archive](https://github.com/Kishu-Community/Kishu-Inu-Creative/tree/main/01-Kishu-Inu-Core/Charity%20Work) |
+
+The Kishu Inu Foundation charity work is listed separately because it was part of the historical team/project record. Kishu Crate, Kishuverse, Kishu Kingdom, Kishu Paw Print, and Kishu sWAG are being documented as ecosystem or community project records unless public evidence proves a different control structure.
+
+Supporting recovered repositories:
+
+- [Kishu Inu Pay](https://github.com/Kishu-Community/kishu-inu-pay)
+- [Kishu Wallet Connect](https://github.com/Kishu-Community/kishu-wallet-connect)
+- [Social media posts and safety references](https://github.com/Kishu-Community/social-media-posts)
 
 Recovered repos and redeployments should clearly explain:
 
