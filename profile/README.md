@@ -10,6 +10,10 @@ This organization is an independent community archive, rebuild, and public recor
 
 This is **not** an official continuation of the original Kishu Inu project unless the original contract, wallet, account, and deployment authority is publicly transferred or delegated.
 
+## Public Work Log
+
+- [My Work](MY-WORK.MD)
+
 I do **not** control the original KISHU token contract, legacy deployer wallets, owner Safe, NFT collection owner wallets, or former team accounts.
 
 This work is an opt-in transparency and rebuild effort for community members, holders, and NFT buyers who want a clearer record of what exists today, what was promised historically, what was actually deployed, and what would need to be rebuilt correctly.
