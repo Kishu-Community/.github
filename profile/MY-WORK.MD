@@ -1,8 +1,17 @@
 # My Work
 
-This file records public Kishu Community recovery, cleanup, archive, and maintenance work I have personally completed or coordinated.
+This is the public index for Kishu Community recovery, cleanup, archive, and maintenance work I have personally completed or coordinated.
 
 It is not a roadmap, investment pitch, official token-control claim, or promise that past losses can be reversed.
+
+## How This Is Organized
+
+- `MY-WORK.MD` stays as the main public index.
+- Monthly logs live in `work-log/YYYY-MM.md`.
+- Daily entries inside each monthly log are listed newest first.
+- Entries should stay factual: what changed, where it changed, what was verified, and what limits still exist.
+
+This can later become a GitHub Pages blog or static site without changing the public record structure.
 
 ## Standing Limits
 
@@ -12,39 +21,29 @@ It is not a roadmap, investment pitch, official token-control claim, or promise 
 - I cannot force migrations, move legacy staking contracts, or update old NFT contracts without the proper contract ownership.
 - Any rebuild work here is opt-in, public, and limited to assets, domains, repos, documentation, and deployments I can actually access.
 
-## 2026-05-13
+## Work Log Index
 
-### GitHub Organization
+| Month | Main Areas | Log |
+| --- | --- | --- |
+| 2026-05 | GitHub profile, website links, mobile navigation, frontend security hardening | [Open May 2026 log](work-log/2026-05.md) |
 
-- Maintained the public Kishu Community GitHub profile as an independent rebuild and public record effort.
-- Added this public work log so daily recovery and cleanup work can be tracked without relying on private claims.
-- Kept the public safety language focused on seed phrase safety, official links, and the limits of current contract control.
+## Entry Template
 
-### Website Frontend
+Use this shape for new daily entries:
 
-- Added the current Telegram community link to the website Apps dropdown.
-- Added the Kishu Community GitHub link to the website Apps dropdown.
-- Updated the archive popup so "Open archive" points to the Kishu Community GitHub organization.
-- Removed the TechRate audit link for now because the PDF still references an old `kishuinu.finance` URL.
-- Updated mobile navigation so public links are available from the mobile menu.
-- Removed third-party CDN JavaScript from the recovered frontend.
-- Added local copies of required frontend assets, including jQuery and a Webflow background image.
-- Added Cloudflare Worker security headers, including CSP, content type protection, referrer policy, and permissions policy.
-- Updated the local verification script so remote script tags fail future checks.
+```md
+## YYYY-MM-DD
 
-Frontend security commit:
+### Area
 
-- [`76fc7b6` - Harden frontend script loading](https://github.com/Kishu-Community/kishu-inu-web-frontend/commit/76fc7b68c7ea210b27bf5d76a72d711a93df29aa)
+- Factual change made.
+- Link to commit, file, contract, archive, or public source when possible.
 
 ### Verification
 
-- Ran the local clean-site verifier.
-- Ran the Cloudflare Worker dry-run check.
-- Confirmed the Worker returns the new security headers on asset and redirect responses.
+- Check or review that was run.
 
 ### Notes
 
-- No token contract ownership changed.
-- No legacy wallet access changed.
-- No claim is being made that this organization controls abandoned legacy systems.
-- The purpose of this work is to make public evidence, recovered code, current limits, and active cleanup visible.
+- Any limits, unresolved access issues, or proof gaps.
+```
