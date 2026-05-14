@@ -25,6 +25,8 @@ This is **not** an official continuation of the original Kishu Inu project unles
 | [Structured community project assets](https://github.com/Kishu-Community/Kishu-Inu-Creative/tree/main/02-Kishu-Community-Projects) | Kishu Paw Print, Kishu Swag, Kishu Crate, Kishuverse, and Kishu Kingdom folders |
 | [KISHU token contract archive](https://github.com/Kishu-Community/Kishu-Inu-Contracts) | Public source archive for the KISHU token contract |
 | [KISHU Ethereum token on Etherscan](https://etherscan.io/token/0xa2b4c0af19cc16a6cfacce81f192b024d625817d) | Live token tracker and verified on-chain reference |
+| [KISHU Solidity source on GitHub](https://github.com/Kishu-Community/Kishu-Inu-Contracts/blob/main/Kishu%20Inu%20ETH%20Token/KishuInu.sol) | Public GitHub copy of the KISHU Solidity token source |
+| [KISHU deployment and ownership notes](https://github.com/Kishu-Community/Kishu-Inu-Contracts/blob/main/Kishu%20Inu%20ETH%20Token/Deployment-And-Ownership.md) | Public notes for deployment transaction, ownership transfer, and current owner Safe context |
 
 ## Public Work Log
 
