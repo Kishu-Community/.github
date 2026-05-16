@@ -26,12 +26,13 @@ This can later become a GitHub Pages blog or static site without changing the pu
 - Added the shared public navigation across the Apps, Charts, Privacy, Disclosures, and Terms pages.
 - Added a GitHub icon to the `My Work` button so the public work record is easier to identify.
 - Added matching legal-page footer disclaimers covering non-custody, no affiliation, seed phrase safety, no financial advice, and no promise of legacy asset restoration.
+- Continued cleaning and organizing older recovered Kishu content and public information so current links, archive notes, and safety context are easier to review.
 
 ## Work Log Index
 
 | Month | Main Areas | Log |
 | --- | --- | --- |
-| 2026-05 | GitHub profile, website links, mobile navigation, legal pages, frontend security hardening | [Open May 2026 log](work-log/2026-05.md) |
+| 2026-05 | GitHub profile, website links, mobile navigation, legal pages, archive cleanup, frontend security hardening | [Open May 2026 log](work-log/2026-05.md) |
 
 ## Entry Template
 
