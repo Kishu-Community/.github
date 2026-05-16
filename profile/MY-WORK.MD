@@ -28,6 +28,7 @@ This can later become a GitHub Pages blog or static site without changing the pu
 - Added matching legal-page footer disclaimers covering non-custody, no affiliation, seed phrase safety, no financial advice, and no promise of legacy asset restoration.
 - Continued cleaning and organizing older recovered Kishu content and public information so current links, archive notes, and safety context are easier to review.
 - Added an official themed 404 page so missing or old links show current safety guidance instead of a generic error or homepage soft redirect.
+- Added an `All Apps` dropdown link and direct PawTracked section anchor so app navigation opens the right recovered app section.
 
 ## Work Log Index
 
