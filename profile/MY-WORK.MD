@@ -34,6 +34,7 @@ This can later become a GitHub Pages blog or static site without changing the pu
 - Recorded the current FAQ behavior settings: FAQ answers start closed, one answer opens at a time, clicking an open question closes it, and the automatic-burn answer keeps the dead-wallet Etherscan link inside the expanded panel.
 - Fixed Apps dropdown highlighting so `All Apps`, `PawTracked`, and other same-page app anchors do not all appear active at the same time.
 - Added the KISHU LP Burn Etherscan transaction link under `Kishu Token Details` with the other contract and deployment references.
+- Fixed the desktop homepage Webflow scroll timing for the `Why Kishu` and `Stats` sections so sticky animation panels stay visible on desktop instead of sliding away into blank space; mobile breakpoints were left untouched.
 
 ## Work Log Index
 
