@@ -33,6 +33,7 @@ This can later become a GitHub Pages blog or static site without changing the pu
 - Fixed the homepage FAQ accordion so each question can open and close cleanly without relying on old Webflow interaction wiring.
 - Recorded the current FAQ behavior settings: FAQ answers start closed, one answer opens at a time, clicking an open question closes it, and the automatic-burn answer keeps the dead-wallet Etherscan link inside the expanded panel.
 - Fixed Apps dropdown highlighting so `All Apps`, `PawTracked`, and other same-page app anchors do not all appear active at the same time.
+- Added the KISHU LP Burn Etherscan transaction link under `Kishu Token Details` with the other contract and deployment references.
 
 ## Work Log Index
 
