@@ -40,6 +40,7 @@ This can later become a GitHub Pages blog or static site without changing the pu
 - Fine-tuned the Apps intro desktop spacing so the PawTracked watermark, image group, and recovered app status copy sit in the same first-screen rhythm as the Charts intro without overlapping the navbar.
 - Added a new Apps page introduction section before PawTracked, matching the Charts page left-copy/right-visual layout and using a Kishu app directory visual to explain the recovered app notes before visitors reach individual app sections.
 - Added a shared navigation safety reset so Webflow dropdown/mobile menu state cannot stay stuck open when moving between the Home, Charts, and Apps pages.
+- Hardened the desktop navigation reset so stale mobile drawer classes cannot spread dropdown links across the desktop header, while keeping the mobile drawer fully expanded for easier touch navigation.
 - Added public account-control notes explaining that `@InuKishu` is still active through a separate legacy/community operator and that the current rebuild does not have access to that account's private messages.
 
 ## Work Log Index
