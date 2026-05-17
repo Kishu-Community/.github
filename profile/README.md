@@ -30,7 +30,7 @@ This is **not** an official continuation of the original Kishu Inu project unles
 
 ## Public Work Log
 
-- [My Work](MY-WORK.MD)
+- [My Work](https://github.com/Kishu-Community/.github/blob/main/profile%2FMY-WORK.MD)
 
 I do **not** control the original KISHU token contract, legacy deployer wallets, owner Safe, NFT collection owner wallets, or former team accounts.
 
