@@ -38,6 +38,7 @@ This can later become a GitHub Pages blog or static site without changing the pu
 - Continued desktop-only visual cleanup by moving the homepage hero stack into the shared page rhythm, raising only the “How to get $KISHU” dog/frisbee and step markers, and resizing/repositioning the Charts page watermark so it matches the Apps/PawTracked background treatment more closely.
 - Converted the Charts page intro into the same left-copy/right-visual structure used by the Apps intro, using the local Kishu chart screenshots and lowering the desktop text block so the eyebrow heading visually lines up with the Apps intro.
 - Fine-tuned the Apps intro desktop spacing so the PawTracked watermark, image group, and recovered app status copy sit in the same first-screen rhythm as the Charts intro without overlapping the navbar.
+- Added a new Apps page introduction section before PawTracked, matching the Charts page left-copy/right-visual layout and using a Kishu app directory visual to explain the recovered app notes before visitors reach individual app sections.
 
 ## Work Log Index
 
