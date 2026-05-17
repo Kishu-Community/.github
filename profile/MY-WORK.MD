@@ -35,6 +35,9 @@ This can later become a GitHub Pages blog or static site without changing the pu
 - Fixed Apps dropdown highlighting so `All Apps`, `PawTracked`, and other same-page app anchors do not all appear active at the same time.
 - Added the KISHU LP Burn Etherscan transaction link under `Kishu Token Details` with the other contract and deployment references.
 - Fixed the desktop homepage Webflow scroll timing for the `Why Kishu` and `Stats` sections so sticky animation panels stay visible on desktop instead of sliding away into blank space; mobile breakpoints were left untouched.
+- Continued desktop-only visual cleanup by moving the homepage hero stack into the shared page rhythm, raising only the “How to get $KISHU” dog/frisbee and step markers, and resizing/repositioning the Charts page watermark so it matches the Apps/PawTracked background treatment more closely.
+- Converted the Charts page intro into the same left-copy/right-visual structure used by the Apps intro, using the local Kishu chart screenshots and lowering the desktop text block so the eyebrow heading visually lines up with the Apps intro.
+- Fine-tuned the Apps intro desktop spacing so the PawTracked watermark, image group, and recovered app status copy sit in the same first-screen rhythm as the Charts intro without overlapping the navbar.
 
 ## Work Log Index
 
