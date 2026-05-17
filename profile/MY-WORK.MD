@@ -39,6 +39,7 @@ This can later become a GitHub Pages blog or static site without changing the pu
 - Converted the Charts page intro into the same left-copy/right-visual structure used by the Apps intro, using the local Kishu chart screenshots and lowering the desktop text block so the eyebrow heading visually lines up with the Apps intro.
 - Fine-tuned the Apps intro desktop spacing so the PawTracked watermark, image group, and recovered app status copy sit in the same first-screen rhythm as the Charts intro without overlapping the navbar.
 - Added a new Apps page introduction section before PawTracked, matching the Charts page left-copy/right-visual layout and using a Kishu app directory visual to explain the recovered app notes before visitors reach individual app sections.
+- Added a shared navigation safety reset so Webflow dropdown/mobile menu state cannot stay stuck open when moving between the Home, Charts, and Apps pages.
 
 ## Work Log Index
 
