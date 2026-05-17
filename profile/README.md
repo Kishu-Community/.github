@@ -55,6 +55,16 @@ Without control of the original wallets and contracts, this organization cannot 
 - Claim to be the official continuation of Kishu Inu.
 - Promise that historical losses will be recovered or made whole.
 
+## Current Account Control Notes
+
+The current Kishu Community recovery work covers the domains, GitHub organization, recovered frontend code, public documentation, and public materials that can be accessed and maintained through the current rebuild.
+
+This rebuild does not control the original KISHU token contract, owner Safe, legacy team wallets, unavailable legacy team accounts, or private messages on legacy social accounts.
+
+The X account `@InuKishu` is still active through a separate legacy/community account operator. Some public profile assets and limited public posts have been updated where access was available, but private messages to that account are not accessible to the current rebuild maintainer and should not be treated as official support for this recovery effort.
+
+For current public communication, use the homepage, GitHub organization, and Telegram links listed in this README and on [kishu.finance](https://kishu.finance).
+
 ## Safety Notice
 
 - Current rebuild GitHub organization: [github.com/Kishu-Community](https://github.com/Kishu-Community)
