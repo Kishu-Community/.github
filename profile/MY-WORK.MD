@@ -43,6 +43,8 @@ This can later become a GitHub Pages blog or static site without changing the pu
 - Hardened the desktop navigation reset so stale mobile drawer classes cannot spread dropdown links across the desktop header, while keeping the mobile drawer fully expanded for easier touch navigation.
 - Added desktop-only header layout guards and dropdown hover/focus fallback rules so repeated Apps/Charts navigation does not collapse or spread the desktop menu.
 - Added a final desktop nav guard that gives the header its own stable gap and hides/removes stale Webflow dropdown-open state after repeated Apps/Charts page switching.
+- Switched desktop dropdowns to a controlled click-open state so Chrome cannot restore hover/focus dropdowns into the page after moving back and forth between Apps and Charts.
+- Updated the Kishu.com renewal notice actions by removing the lower `Close` button and changing the second action to `Open Git Archive`.
 - Adjusted the mobile header order so the Kishu icon, `My Work` button, and round menu button sit together in that order without changing the desktop navigation layout.
 - Added public account-control notes explaining that `@InuKishu` is still active through a separate legacy/community operator and that the current rebuild does not have access to that account's private messages.
 
