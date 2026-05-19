@@ -49,6 +49,9 @@ This can later become a GitHub Pages blog or static site without changing the pu
 - Added public account-control notes explaining that `@InuKishu` is still active through a separate legacy/community operator and that the current rebuild does not have access to that account's private messages.
 - Updated Kishu Community GitHub links, including the `My Work` button, so they stay in the same browser tab instead of opening a new tab.
 - Re-verified the Home, Apps, and Charts navigation with a clean Chrome desktop stress test and a mobile header/menu check after the final navigation hardening pass.
+- Replaced the remaining Webflow desktop dropdown behavior with a Kishu-owned navigation controller so `kishu-menu-open` is the only desktop dropdown state.
+- Cache-busted the shared navigation CSS and JavaScript across Home, Apps, Charts, Privacy, Disclosures, Terms, and 404 pages so browsers do not keep the older Webflow-driven menu logic.
+- Re-tested navigation in a clean headless Chrome loop: 16 Apps/Charts click cycles, 12 browser back/forward checks, and a mobile hamburger smoke test.
 
 ## Work Log Index
 
