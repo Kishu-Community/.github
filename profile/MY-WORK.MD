@@ -47,6 +47,8 @@ This can later become a GitHub Pages blog or static site without changing the pu
 - Updated the Kishu.com renewal notice actions by removing the lower `Close` button and changing the second action to `Open Git Archive`.
 - Adjusted the mobile header order so the Kishu icon, `My Work` button, and round menu button sit together in that order without changing the desktop navigation layout.
 - Added public account-control notes explaining that `@InuKishu` is still active through a separate legacy/community operator and that the current rebuild does not have access to that account's private messages.
+- Updated Kishu Community GitHub links, including the `My Work` button, so they stay in the same browser tab instead of opening a new tab.
+- Re-verified the Home, Apps, and Charts navigation with a clean Chrome desktop stress test and a mobile header/menu check after the final navigation hardening pass.
 
 ## Work Log Index
 
