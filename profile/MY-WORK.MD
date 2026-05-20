@@ -23,6 +23,8 @@ This can later become a GitHub Pages blog or static site without changing the pu
 
 ## Current Website Cleanup
 
+- Added a public-safe May 18 bridge work-log entry for the overnight cleanup work that carried into May 19.
+- Added a May 20 work-log entry noting the current navigation/site check while intentionally leaving private account setup, wallet setup, and internal recovery details out of the public record.
 - Added the shared public navigation across the Apps, Charts, Privacy, Disclosures, and Terms pages.
 - Added a GitHub icon to the `My Work` button so the public work record is easier to identify.
 - Added matching legal-page footer disclaimers covering non-custody, no affiliation, seed phrase safety, no financial advice, and no promise of legacy asset restoration.
